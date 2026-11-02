@@ -21,9 +21,9 @@ The goal is to progressively build a small enterprise network and practice essen
 
 | Phase | Topics | Status |
 |---|---|---|
-| Day 1 | Basic LAN Configuration | Documented |
-| Day 2 | MAC Address Learning | Documented |
-| Day 3 | Basic Router Configuration | Documented |
+| Day 1 | Basic LAN Configuration | 	Completed & Verified |
+| Day 2 | MAC Address Learning | 	Completed & Verified |
+| Day 3 | Basic Router Configuration | 	Completed & Verified |
 | Day 4 | IPv4 Addressing and Subnetting | In Progress |
 | Upcoming | VLANs and Trunking | Planned |
 | Upcoming | Spanning Tree Protocol (STP) | Planned |
