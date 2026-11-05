@@ -20,12 +20,14 @@ The goal is to progressively build a small enterprise network and practice essen
 ## Learning Roadmap
 
 | Phase | Topics | Status |
+| Day | Topic | Status |
 |---|---|---|
-| Day 1 | Basic LAN Configuration | 	Completed & Verified |
-| Day 2 | MAC Address Learning | 	Completed & Verified |
-| Day 3 | Basic Router Configuration | 	Completed & Verified |
-| Day 4 | IPv4 Addressing and Subnetting | In Progress |
-| Upcoming | VLANs and Trunking | Planned |
+| Day 1 | Basic LAN Configuration | Completed & Verified |
+| Day 2 | MAC Address Learning | Completed & Verified |
+| Day 3 | Basic Router Configuration | Completed & Verified |
+| Day 4 | IPv4 Addressing and Subnetting | Completed & Verified |
+| Day 5 | VLANs and Trunking | Completed & Verified |
+| Day 6 | Inter-VLAN Routing and Troubleshooting | Completed & Verified |
 | Upcoming | Spanning Tree Protocol (STP) | Planned |
 | Upcoming | Routing and OSPF | Planned |
 | Upcoming | Network Services | Planned |
